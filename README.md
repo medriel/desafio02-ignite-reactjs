@@ -25,3 +25,12 @@ Essa é uma API que permite persistir dados no navegador em um esquema de chave-
 
 ### Mostrando erros com toastify
 Para mostrar os erros em tela, foi utilizada a lib react-toastify. Ela ajuda a mostra informações temporárias e rápidas de uma forma bem bonita.
+
+
+![image](https://user-images.githubusercontent.com/74268252/126845414-48c18f6c-f39b-409a-aff1-bd0b9bd4401f.png)
+
+![image](https://user-images.githubusercontent.com/74268252/126845440-fe041186-1e4b-43b6-b436-318cb71d35d1.png)
+
+![image](https://user-images.githubusercontent.com/74268252/126845461-fee330a3-b380-4c0b-84c2-f0681fb2104d.png)
+
+
